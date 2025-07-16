@@ -5,7 +5,7 @@ import { motion } from "motion/react";
 
 const Contact = () => {
   const handleButtonClick = () => {
-    window.open("https://forms.gle/YOUR_GOOGLE_FORM_LINK", "_blank");
+    window.open("https://docs.google.com/forms/d/e/1FAIpQLSfIzUp_bBNp1ceLMgL_pVu36k2Rh2W9JfhyvLAsBVaNaJ_o9w/viewform?usp=dialog", "_blank");
   };
 
   return (
